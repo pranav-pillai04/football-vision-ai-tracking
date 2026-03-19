@@ -1,6 +1,6 @@
 Football Vision – AI Player Tracking System
 
-An AI-based computer vision system for real-time player and ball tracking in football match footage.
+An AI-based computer vision system for player and ball tracking in football match footage.
 
 Features
 - YOLOv8 for object detection
